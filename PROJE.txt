@@ -1,0 +1,12 @@
+5 Bölümlü Yıldızlı 
+(
+Yıldız1:Bölüm Tamamlandı
+Yıldız2:Zamanında Tamamlandı
+Yıldız3:Doğruluk Oranı
+)
+-Bölümler-
+B1:Kelime Kovalamaca
+B2:Kıtaları Bulma
+B3:Kıtaları Eşleştirme/Birleştirme
+B4:Meclise Şiiri Yetiştirme Parkur
+B5:Tuş basma
